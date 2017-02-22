@@ -1,0 +1,8 @@
+class Constant_class
+		
+		DAYS = [["MONDAY",1,2], ["TUESDAY",3,4], ["WEDNESDAY",5,6], ["THURSDAY",7,8], ["FRIDAY",9,0]]
+		TIME_HOME_DAY="07:00"
+		TIME_END_DAY="09:30"
+		TIME_HOME_NIGHT="16:00"
+		TIME_END_NIGHT="19:30"
+end
